@@ -1,6 +1,6 @@
 # Password Manager
 
-A password manager application built with Django and MongoDB to securely store and manage passwords.
+A password manager application built with Django and MongoDB to securely store and manage and evaluate strength of passwords.
 
 ---
 
